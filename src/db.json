@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "dashboard_category_name": "CSPM",
+        "widgets": [
+            {
+                "widget_id":1,
+                "name": "Cloud Accounts",
+                "text": "Para"
+            },
+            {
+                "widget_id":2,
+                "name": "Cloud Account Risk Assessment",
+                "text": "Para"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "dashboard_category_name": "CWPP",
+        "widgets": [
+            {
+                "widget_id":3,
+                "name": "Top 5 name space specific Alerts",
+                "text": "Para"
+            },
+            {
+                "widget_id":4,
+                "name": "Workload Alerts",
+                "text": "Para"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "dashboard_category_name": "Registry scan",
+        "widgets": [
+            {
+                "widget_id":5,
+                "name": "Image Risk Assessment",
+                "text": "Para"
+            },
+            {
+                "widget_id":6,
+                "name": "Image Security Issues",
+                "text": "Para"
+            }
+        ]
+    }
+]
